@@ -67,7 +67,7 @@
     position: relative;
     width: 36px;
     height: 28px;
-    background: url(toggle.png);
+    background: url(images/toggle.png);
     background-size: cover;
     cursor: pointer;
 }
@@ -100,7 +100,7 @@
 }
 
 .about .imgBx{
-    background: url(window.jpg);
+    background: url(images/window.jpg);
     width: 50%;
     background-size: cover;
     background-position: center;
