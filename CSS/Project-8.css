@@ -233,14 +233,14 @@
 }
 
 .imgBx2{
-    background: url(bg2.jpg);
+    background: url(images/bg2.jpg);
     background-size: cover;
     background-position: center;
     width: 50%;
 }
 
 .redbg{
-    background: url(red.jpg) !important;
+    background: url(images/red.jpg) !important;
     background-size: cover;
     background-position: center;
 }
