@@ -101,7 +101,7 @@
 }
 
 .about .imgBx{
-    background: url(images/window.jpg);
+    background: url(../images/window.jpg);
     width: 50%;
     background-size: cover;
     background-position: center;
@@ -234,14 +234,14 @@
 }
 
 .imgBx2{
-    background: url(images/bg2.jpg);
+    background: url(../images/bg2.jpg);
     background-size: cover;
     background-position: center;
     width: 50%;
 }
 
 .redbg{
-    background: url(images/red.jpg) !important;
+    background: url(../images/red.jpg) !important;
     background-size: cover;
     background-position: center;
 }
